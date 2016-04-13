@@ -6,5 +6,5 @@ Useful Libraries
 - [Bonsai](http://bonsaijs.org/)
 - [D3](https://d3js.org/)
 - [Paper.js](http://paperjs.org/)
-- [Raphael.js](http://raphaeljs.com/)
+- [Raphael.js](http://dmitrybaranovskiy.github.io/raphael/)
 - [Velocity](http://julian.com/research/velocity/)
