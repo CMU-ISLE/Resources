@@ -8,3 +8,9 @@ Useful Libraries
 - [Paper.js](http://paperjs.org/)
 - [Raphael.js](http://dmitrybaranovskiy.github.io/raphael/)
 - [Velocity](http://julian.com/research/velocity/)
+
+## React
+
+### Components 
+
+- [notification](https://github.com/pburtchaell/react-notification)
