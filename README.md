@@ -18,3 +18,4 @@ Useful Libraries
 
 #### Plotting
 - [function-plot](https://github.com/angus-c/react-function-plot)
+- [sparklines](https://github.com/borisyankov/react-sparklines)
