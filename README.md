@@ -13,4 +13,8 @@ Useful Libraries
 
 ### Components 
 
+#### UI
 - [notification](https://github.com/pburtchaell/react-notification)
+
+#### Plotting
+- [function-plot](https://github.com/angus-c/react-function-plot)
